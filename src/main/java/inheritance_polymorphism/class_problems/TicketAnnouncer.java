@@ -1,6 +1,6 @@
 package main.java.inheritance_polymorphism.class_problems;
 
-public class Problem4TicketAnnouncer {
+public class TicketAnnouncer {
 
     static class EventTicket {
 
@@ -92,7 +92,6 @@ public class Problem4TicketAnnouncer {
                 );
 
         EventTicket[] tickets = {
-                standard,
                 workshop
         };
 
