@@ -1,6 +1,6 @@
 package main.java.inheritance_polymorphism.class_problems;
 
-public class Problem5TicketSettlement {
+public class TicketSettlement {
 
     static class EventTicket {
 
