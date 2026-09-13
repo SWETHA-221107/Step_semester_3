@@ -1,7 +1,6 @@
-
 package main.java.inheritance_polymorphism.class_problems;
 
-public class Problem1TicketHierarchy {
+public class TicketHierarchy {
 
     // Parent class
     static class EventTicket {

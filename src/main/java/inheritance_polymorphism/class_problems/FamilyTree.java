@@ -1,6 +1,6 @@
 package main.java.inheritance_polymorphism.class_problems;
 
-public class Problem2FamilyTree {
+public class FamilyTree {
 
     // Base class
     static class EventTicket {
